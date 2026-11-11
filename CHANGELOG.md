@@ -14,8 +14,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 Documentation only. Application code, configuration, and the license file were not modified. Git history was not rewritten.
 
-未改动的路径：`src/`、`test/`、`package.json`、`.gitignore`、`LICENSE`、`docs/open-source.md`、`docs/operations.md`、`docs/verification.md`。
-
 ### Added
 
 - 新增 [docs/USAGE.md](docs/USAGE.md)。内容是两份 Node.js 组件各自做什么、凭据占位符、测试命令，以及源码里写明的 scope、错误码和超时。
